@@ -1,2 +1,2 @@
 # Hangman Game
- It is a Word Guess With good fun
+ It is a Word Guess Games With good fun activity.
